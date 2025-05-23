@@ -41,4 +41,5 @@ Total Sales By Retailer (BAR CHART)
 
 **Business Impact And Insights:**
 **Through this analysis compony(Adidas)aims to empower its decision makers with Data driven Insights,fastering strategies growth and competitiveness in the dynamic Sport and Athletic industry.**
+https://github.com/sonaliM20/Adidas-Sales-Dashboard/blob/main/Screenshot%202025-05-23%20070518.png
 
