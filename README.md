@@ -6,6 +6,16 @@ Business Requirements:
 •	Pricing and margin strategies for improved Profitability.
 •	Actionable Recommendations for optimizing sales and profit across various dimensions.
 
+
+**List of technologies used to build the Dashboard**
+•	Power BI Desktop- Main Data visualization platform to create Dashboard.
+•	Data Source :Excel Data downloaded from Kaggle.com.
+•	Power query: Data transformation and cleaning layer for reshaping and preparing the data.
+•	DAX: used for calculated measures, dynamic visuals, conditional logic.
+•	Charts development and Formatting.
+•	Insights generation.
+
+
 **KPI'S**
 1.Total sales analysis
    -Understand the overall sales performance of Adidas over time.
